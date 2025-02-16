@@ -1,9 +1,9 @@
-- 👋 Hi, I’m @jidshola # Hi there! 👋 I'm [Your Name]
+- 👋 Hi, I’m @jidshola # Hi there! 👋 I'm Babajide Ayegbusi
 
 Welcome to my GitHub profile! Here's a little about me:
 
 🌟 **About Me**  
-- 🏢 Cloud Engineer Tech entrepreneur and Project Manager at Technology Advantage Networks Limited  
+- 🏢 Cloud Engineer, Tech Entrepreneur and Project Manager at Technology Advantage Networks Limited  
 - 📚 Passionate about cloud computing, cybersecurity, and African agriculture  
 
 🚀 **Current Focus**  

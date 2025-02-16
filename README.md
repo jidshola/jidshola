@@ -8,7 +8,7 @@ Welcome to my GitHub profile! Here's a little about me:
 
 🚀 **Current Focus**  
 - Learning cloud engineering and cybersecurity  
-- Exploring gender dynamics in African agriculture  
+- Exploring gender dynamics and Technology impact in African agriculture  
 
 📫 **Connect with me**  
 - [LinkedIn](#)  
